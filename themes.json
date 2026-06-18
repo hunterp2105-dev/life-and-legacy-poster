@@ -1,0 +1,12 @@
+{
+  "beach": {
+    "primary": "#44e424",
+    "accent": "#9DC36B",
+    "bg": "#0D1B0A",
+    "bg2": "#962e2e",
+    "text": "#E8F0E4",
+    "card": "#1C2E15",
+    "grad_start": "#0D1B0A",
+    "grad_end": "#1A3012"
+  }
+}
